@@ -17,6 +17,7 @@ body {
     text-shadow: 1px 1px 2px #000000;
     background-image: url('imagens/fundo1.jpg');
     background-attachment: fixed;
+    padding: 10px;
 }
 
 nav {
