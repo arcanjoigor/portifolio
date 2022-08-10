@@ -18,6 +18,8 @@ body {
     background-image: url('imagens/fundo1.jpg');
     background-attachment: fixed;
     padding: 10px;
+    background-color: #000091;
+    background-size: cover;
 }
 
 nav {
