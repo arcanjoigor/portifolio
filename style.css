@@ -175,3 +175,10 @@ footer {
     height: 20px;
     padding: 5px
 }
+
+#dragonsite:hover {
+    content: url(imagens/dragonball2.png);
+}
+#tvlis:hover {
+    content: url(imagens/tvlis2.png);
+}
